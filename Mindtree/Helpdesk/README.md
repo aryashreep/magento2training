@@ -1,0 +1,1 @@
+# Magento Helpdesk module
