@@ -1,5 +1,5 @@
 # Magento 2 training modules
-## Upload the modules in app/code directory and run the enable modules commands. You will find the below the modules
+## Upload the modules in app/code directory and run the enable module commands. You will find the below the modules
 ### Mindtree_Helpdesk
 ### Unit1
 #### Unit1_Test
